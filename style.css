@@ -1,0 +1,225 @@
+.navbar {
+    position: absolute;
+    left: 7%;
+    top: 24px;
+}
+
+.navbarr {
+    position: absolute;
+    left: 7%;
+    top: 24px;
+}
+
+.logotx {
+    padding-top: 18px;
+    display: block;
+    width: 20px;
+    margin: auto;
+}
+
+.rahim {
+    width: 45px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8px;
+}
+
+.kotak1 {
+    position: absolute;
+    right: 7%;
+    height: 95px;
+    left: 7%;
+    top: 176px;
+    background: #F9F9F9;
+    border: 1px solid #28AFB0;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+}
+
+.logodalamkotak {
+    width: 42px;
+    position: absolute;
+    left: 24px;
+    right: 74.17%;
+    top: 18px;
+}
+
+.kotak11 {
+    position: absolute;
+    width: 200px;
+    height: 21px;
+    left: 90px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    margin-top: 38px;
+    letter-spacing: 0.015em;
+    color: #000000;
+    font-family: 'overpass';
+}
+
+.kotak2 {
+    position: absolute;
+    right: 7%;
+    height: 95px;
+    left: 7%;
+    top: 295px;
+    background: #F9F9F9;
+    border: 1px solid #28AFB0;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+}
+
+.logodalamkotak2 {
+    width: 42px;
+    position: absolute;
+    left: 24px;
+    right: 74.17%;
+    top: 23px;
+}
+
+.kotak12 {
+    position: absolute;
+    width: 200px;
+    height: 21px;
+    left: 90px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    margin-top: 38px;
+    letter-spacing: 0.015em;
+    color: #000000;
+    font-family: 'overpass';
+}
+
+.kotak3 {
+    position: absolute;
+    right: 7%;
+    height: 95px;
+    left: 7%;
+    top: 414px;
+    background: #F9F9F9;
+    border: 1px solid #28AFB0;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+}
+
+.logodalamkotak3 {
+    width: 42px;
+    position: absolute;
+    left: 24px;
+    right: 74.17%;
+    top: 33px;
+}
+
+.kotak13 {
+    position: absolute;
+    width: 200px;
+    height: 21px;
+    left: 90px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    margin-top: 38px;
+    letter-spacing: 0.015em;
+    color: #000000;
+    font-family: 'overpass';
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.kotak4 {
+    position: absolute;
+    right: 7%;
+    height: 95px;
+    left: 7%;
+    top: 533px;
+    background: #F9F9F9;
+    border: 1px solid #28AFB0;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+}
+
+.logodalamkotak4 {
+    width: 42px;
+    position: absolute;
+    left: 24px;
+    right: 74.17%;
+    top: 23px;
+}
+
+.kotak14 {
+    position: absolute;
+    width: 200px;
+    height: 21px;
+    left: 90px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    margin-top: 38px;
+    letter-spacing: 0.015em;
+    color: #000000;
+    font-family: 'overpass';
+}
+
+.kotak5 {
+    position: absolute;
+    right: 7%;
+    height: 95px;
+    left: 7%;
+    top: 652px;
+    background: #F9F9F9;
+    border: 1px solid #28AFB0;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+}
+
+.logodalamkotak5 {
+    width: 42px;
+    position: absolute;
+    left: 24px;
+    right: 74.17%;
+    top: 23px;
+}
+
+.kotak15 {
+    position: absolute;
+    width: 200px;
+    height: 21px;
+    left: 90px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    margin-top: 38px;
+    letter-spacing: 0.015em;
+    color: #000000;
+    font-family: 'overpass';
+}
+
+.footer {
+    position: absolute;
+    top: 771px;
+    height: 100px;
+    width: 100%;
+    background-color: #e5e5e5;
+    text-align: center;
+}
+
+.fot {
+    left: 7%;
+    right: 7%;
+    margin-top: 30px;
+}
